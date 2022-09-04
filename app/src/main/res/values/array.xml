@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="xposed_scope">
+        <item>com.dragon.read</item>
+		<item>com.xs.fm</item>
+		<item>com.vmos.pro</item>
+		<item>com.lemon.lv</item>
+		<item>com.iflytek.vflynote</item>
+		<item>com.catchingnow.icebox</item>
+		<item>com.lerist.fakelocation</item>
+		<item>com.qq.qcloud</item>
+		<item>com.yipeinet.excel</item>
+		<item>com.youdao.note</item>
+		<item>cn.kuwo.player</item>
+		<item>com.growing.topwidgets</item>
+		<item>top.niunaijun.HookHelper</item>
+		<item>com.cosmos.tools</item>
+		<item>com.gorgeous.lite</item>
+		<item>io.iftech.android.box</item>
+		<item>cn.ticktick.task</item>
+		<item>imoblife.brainwavestus</item>
+		<item>com.jideos.jnotes</item>
+		<item>com.duapps.recorder</item>
+		<item>com.estrongs.android.pop</item>
+	</string-array>
+    
+</resources>
